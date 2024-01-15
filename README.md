@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Python programming](/Backgrounds/)
-- Basic algorithmic analysis
+- [Basic algorithmic analysis](/algorithmic_analysis/)
 - Searching
 - Sorting
 - Backtracking
