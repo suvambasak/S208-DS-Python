@@ -1,13 +1,14 @@
 # S208 - Data Structure Using Python
 
 ## Table of Contents
-- [Python programming](/Backgrounds/)
+- [Python programming](/backgrounds/)
 - [Basic algorithmic analysis](/algorithmic_analysis/)
+    - [PPT](/algorithmic_analysis/PPT/)
 - Searching
 - Sorting
-- Backtracking
 - OOPs
 - Abstract datatypes (ADT)
+- Backtracking
 - Dynamic programming
 - Memory management in C
 - Functional programming
