@@ -15,7 +15,7 @@
 
 ## Labs
 - [Demo](/labs/demo/)
-- Week 1
+- [Coding Challenge 1](/labs/CH1/)
 
 ## Other
 - [Course Outline](/CSE-S208-CourseOutline.pdf)
