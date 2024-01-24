@@ -13,6 +13,10 @@
 - Memory management in C
 - Functional programming
 
+## Labs
+- [Demo](/labs/demo/)
+- Week 1
+
 ## Other
 - [Course Outline](/CSE-S208-CourseOutline.pdf)
 - [Screen Share](https://screensy.marijn.it/#MassiveBirdsProposeQuickly)
