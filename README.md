@@ -16,6 +16,8 @@
 ## Labs
 - [Demo](/labs/demo/)
 - [Coding Challenge 1](/labs/CH1/)
+- [Coding Challenge 2](/labs/CH2/)
+- [Coding Challenge 3](/labs/CH3/)
 
 ## Other
 - [Course Outline](/CSE-S208-CourseOutline.pdf)

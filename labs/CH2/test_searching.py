@@ -7,13 +7,12 @@ from searching import linear_search, binary_recursive_search, binary_search
 sys.setrecursionlimit(1000000)
 
 
-class TestReverseString(unittest.TestCase):
+class TestSearching(unittest.TestCase):
     FOUND_STATUS = True
     NOT_FOUND_STATUS = False
     NOT_FOUND_INDEX = -1
 
     def test_edge_case_linear_search(self) -> None:
-        'Testing edge cases for linear search'
         status, index = linear_search([], 3)
         self.assertEqual(status, self.NOT_FOUND_STATUS)
         self.assertEqual(index, self.NOT_FOUND_INDEX)
@@ -34,7 +33,6 @@ class TestReverseString(unittest.TestCase):
         self.assertEqual(index, 1)
 
     def test_edge_case_binary(self) -> None:
-        'Testing edge cases for binary  search'
         status, index = binary_search([], 3)
         self.assertEqual(status, self.NOT_FOUND_STATUS)
         self.assertEqual(index, self.NOT_FOUND_INDEX)
@@ -55,7 +53,6 @@ class TestReverseString(unittest.TestCase):
         self.assertEqual(index, 1)
 
     def test_edge_case_binary_recursive(self) -> None:
-        'Testing edge cases for binary recursive search'
         status, index = binary_recursive_search([], 3)
         self.assertEqual(status, self.NOT_FOUND_STATUS)
         self.assertEqual(index, self.NOT_FOUND_INDEX)
@@ -84,7 +81,6 @@ class TestReverseString(unittest.TestCase):
         return (list_random_ints, key, index)
 
     def test_results_linear_search(self) -> None:
-        'Testing for correct results of linear search'
         sample_size = 10
         while sample_size < 100000:
             list_random_ints, key, index = self.generate_list(sample_size)
@@ -105,7 +101,6 @@ class TestReverseString(unittest.TestCase):
             sample_size += 1000
 
     def test_results_binary_search(self) -> None:
-        'Testing for correct results of binary search'
         sample_size = 10
         while sample_size < 100000:
             list_random_ints, key, index = self.generate_list(
@@ -131,7 +126,6 @@ class TestReverseString(unittest.TestCase):
             sample_size += 1000
 
     def test_results_binary_recursive_search(self) -> None:
-        'Testing for correct results of binary recursive search'
         sample_size = 10
         while sample_size < 100000:
             list_random_ints, key, index = self.generate_list(

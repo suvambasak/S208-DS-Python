@@ -1,4 +1,8 @@
 
 def fibonacci(n: int) -> int:
-    'Your code here'
-    pass
+    '''
+    n: n-th term
+
+    Return: calculated n-th term
+    '''
+    pass  # Your code here

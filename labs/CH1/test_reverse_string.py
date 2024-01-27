@@ -11,12 +11,10 @@ sys.setrecursionlimit(1000000)
 class TestReverseString(unittest.TestCase):
 
     def test_edge_case(self) -> None:
-        'Testing edge cases'
         self.assertEqual('', reverse_string_recursive(''))
         self.assertEqual('1', reverse_string_recursive('1'))
 
     def test_palindrome_inputs(self) -> None:
-        'Testing with palindrome'
         self.assertEqual('DAD', reverse_string_recursive('DAD'))
         self.assertEqual('MOM', reverse_string_recursive('MOM'))
         self.assertEqual('madam', reverse_string_recursive('madam'))
@@ -28,7 +26,6 @@ class TestReverseString(unittest.TestCase):
         return ''.join(reversed(text))
 
     def test_results(self) -> None:
-        'Testing for correct results'
         for _ in range(50):
             random_text = self.generate_random_text(random.randint(5, 500))
             self.assertEqual(

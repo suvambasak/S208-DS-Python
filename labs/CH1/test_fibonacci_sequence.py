@@ -9,12 +9,10 @@ sys.setrecursionlimit(1000000)
 class TestFibonacci(unittest.TestCase):
 
     def test_edge_case(self) -> None:
-        'Testing edge cases'
         self.assertEqual(1, fibonacci(1))
         self.assertEqual(0, fibonacci(0))
 
     def test_invalid_inputs(self) -> None:
-        'Testing with invalid inputs (-ve numbers)'
         try:
             self.assertEqual(None, fibonacci(-10))
             self.assertEqual(None, fibonacci(-33))
@@ -34,7 +32,6 @@ class TestFibonacci(unittest.TestCase):
         return num_2
 
     def test_results(self) -> None:
-        'Testing for correct results'
         for _ in range(33):
             random_number = random.randint(0, 40)
             self.assertEqual(
