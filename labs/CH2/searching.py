@@ -35,7 +35,7 @@ def binary_search(
 
 
 def binary_recursive_search(
-    data_list: list[int],
+        data_list: list[int],
         key: int,
         left: int = None,
         right: int = None
