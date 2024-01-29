@@ -9,7 +9,7 @@ Input
 - `n` : Any integer number
 
 Output
-- Sum of the series upto n-th term for $n >= 0$
+- n-th term for $n >= 0$
 - `None` for $n < 0$
 
 
