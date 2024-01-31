@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Python programming](/backgrounds/)
 - [Basic algorithmic analysis](/algorithmic_analysis/)
-    - [PPT](/algorithmic_analysis/PPT/)
 - Searching
 - Sorting
 - OOPs
@@ -12,6 +11,9 @@
 - Dynamic programming
 - Memory management in C
 - Functional programming
+
+### Materials
+- [Slides](/PPT/)
 
 ## Labs
 - [Demo](/labs/demo/)
