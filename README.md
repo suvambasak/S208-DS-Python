@@ -29,4 +29,5 @@
 
 ## Other
 - [Course Outline](/CSE-S208-CourseOutline.pdf)
+- [Sort visualizer](https://www.sortvisualizer.com/)
 - [Screen Share](https://screensy.marijn.it/#MassiveBirdsProposeQuickly)
