@@ -15,6 +15,12 @@
 ### Materials
 - [Slides](/PPT/)
 
+
+## Reference Books
+- Narasimha Karumanchi NK. Data Structures And Algorithms Made Easy
+- Necaise RD. Data structures and algorithms using Python. Wiley Publishing
+
+
 ## Labs
 - [Demo](/labs/demo/)
 - [Coding Challenge 1](/labs/CH1/)
