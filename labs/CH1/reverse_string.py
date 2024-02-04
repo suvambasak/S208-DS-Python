@@ -1,8 +1,19 @@
 
 def reverse_string_recursive(text: str) -> str:
     '''
-    text: input string
+    Parameters
+    ----------
+    text: str
+        input string
 
-    Return: reverse of the string text
+
+    Returns
+    ---------
+    str 
+        reverse of the string text
     '''
-    pass  # Your code here
+
+    if len(text) <= 1:
+        return text
+    else:
+        return reverse_string_recursive(text[1:]) + text[0]

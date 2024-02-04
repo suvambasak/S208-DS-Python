@@ -1,8 +1,20 @@
 
 def fibonacci(n: int) -> int:
     '''
-    n: n-th term
+    Parameters
+    ----------
+    n: int
+        n-th term
 
-    Return: calculated n-th term
+    Returns
+    ---------
+    int 
+        calculated n-th term
     '''
-    pass  # Your code here
+
+    if n < 0:
+        return None
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n-1)+fibonacci(n-2)

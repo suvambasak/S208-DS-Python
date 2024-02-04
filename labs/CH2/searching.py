@@ -1,11 +1,19 @@
 
 
 def linear_search(data_list: list[int], key: int) -> tuple[bool, int]:
-    '''
-    data_list: input list
-    key: element to search for
+    '''Linear search in a list
 
-    Return: tuple(True/False, element index)
+    Parameters
+    ----------
+    data_list: list[int]
+        input list
+    key: int
+        element to search for
+
+    Returns
+    ---------
+    tuple(True/False, int)
+        Status and index
     '''
     pass  # Your code here
 
@@ -16,14 +24,24 @@ def binary_search(
         left: int = None,
         right: int = None
 ) -> tuple[bool, int]:
-    '''
-    data_list: input list
-    key: element to search for
-    left: left index of the list
-    right: right index of the list
+    '''Binary search (iterative) in a list
+
+    Parameters
+    ----------
+    data_list: list[int]
+        input list
+    key: int
+        element to search for
+    left: int, optional
+        left index of the list
+    right: int, optional
+        right index of the list
 
 
-    Return: tuple(True/False, element index)
+    Returns
+    ---------
+    tuple(True/False, int)
+        Status and index
     '''
 
     # Setting up left and right index
@@ -40,14 +58,24 @@ def binary_recursive_search(
         left: int = None,
         right: int = None
 ) -> tuple[bool, int]:
-    '''
-    data_list: input list
-    key: element to search for
-    left: left index of the list
-    right: right index of the list
+    '''Binary search (recursive) in a list
+
+    Parameters
+    ----------
+    data_list: list[int]
+        input list
+    key: int
+        element to search for
+    left: int, optional
+        left index of the list
+    right: int, optional
+        right index of the list
 
 
-    Return: tuple(True/False, element index)
+    Returns
+    ---------
+    tuple(True/False, int)
+        Status and index
     '''
 
     # Setting up left and right index
