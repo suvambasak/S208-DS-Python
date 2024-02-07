@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Python programming](/backgrounds/)
 - [Basic algorithmic analysis](/algorithmic_analysis/)
-- Searching
-- Sorting
+- [Searching](/searching/)
+- [Sorting](/sorting/)
 - OOPs
 - Abstract datatypes (ADT)
 - Backtracking
