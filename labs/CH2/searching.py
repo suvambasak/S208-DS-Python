@@ -15,7 +15,10 @@ def linear_search(data_list: list[int], key: int) -> tuple[bool, int]:
     tuple(True/False, int)
         Status and index
     '''
-    pass  # Your code here
+    for index, item in enumerate(data_list):
+        if item == key:
+            return (True, index)
+    return (False, -1)
 
 
 def binary_search(
@@ -49,7 +52,18 @@ def binary_search(
         left = 0
         right = len(data_list)
 
-    # Your code
+    while left < right:
+        mid = (left + right) // 2
+
+        if key == data_list[mid]:
+            return (True, mid)
+
+        if key < data_list[mid]:
+            right = mid
+        else:
+            left = mid+1
+
+    return (False, -1)
 
 
 def binary_recursive_search(
@@ -83,7 +97,16 @@ def binary_recursive_search(
         left = 0
         right = len(data_list)
 
-    # Your code
+    if right - left == 0:
+        return (False, -1)
+
+    mid = (left + right) // 2
+    if key == data_list[mid]:
+        return (True, mid)
+    if key < data_list[mid]:
+        return binary_recursive_search(data_list, key, left, mid)
+    else:
+        return binary_recursive_search(data_list, key, mid+1, right)
 
 
 if __name__ == '__main__':

@@ -112,3 +112,10 @@ Output
 | Input  | Output |
 | ------------- | ------------- |
 | [9,8,7,6,5,4,3,2,1], 0, 8  | [1,2,3,4,5,6,7,8,9]  |
+
+
+## Test your code
+Execute following command to test your code
+```bash
+python3 -m unittest -v test_sorting.py
+```
