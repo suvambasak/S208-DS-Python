@@ -6,6 +6,9 @@
 - [Searching](/searching/)
 - [Sorting](/sorting/)
 - OOPs
+    - [Videos](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+    - [Reading 1](https://realpython.com/python3-object-oriented-programming/)
+    - [Reading 2](https://docs.python.org/3/tutorial/classes.html)
 - Abstract datatypes (ADT)
 - Backtracking
 - Dynamic programming
@@ -26,6 +29,9 @@
 - [Coding Challenge 1](/labs/CH1/)
 - [Coding Challenge 2](/labs/CH2/)
 - [Coding Challenge 3](/labs/CH3/)
+
+## Question paper
+- [MID-1](/QP_ANS/MID-1%20QP%20S208%20ANS.pdf)
 
 ## Other
 - [Course Outline](/CSE-S208-CourseOutline.pdf)
