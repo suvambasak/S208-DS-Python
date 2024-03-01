@@ -15,6 +15,8 @@
         - [Video 2](https://www.youtube.com/watch?v=KhvV7EEEq4I&list=PLyqSpQzTE6M_Fu6l8irVwXkUyC9Gwqr6_&index=39)
         - [Video 3](https://www.youtube.com/watch?v=KhvV7EEEq4I&list=PLyqSpQzTE6M_Fu6l8irVwXkUyC9Gwqr6_&index=39)
         - [Reading 1](https://www.cse.iitd.ac.in/~bagchi/courses/COL106_18-19/2018COL106note-adt.pdf)
+
+    - [Linked list](/linked_list/single_linked_list.py)
 - Backtracking
 - Dynamic programming
 - Memory management in C
@@ -34,6 +36,7 @@
 - [Coding Challenge 1](/labs/CH1/)
 - [Coding Challenge 2](/labs/CH2/)
 - [Coding Challenge 3](/labs/CH3/)
+- [Coding Challenge 4](/labs/CH4/)
 
 ## Question paper
 - [MID-1](/QP_ANS/MID-1%20QP%20S208%20ANS.pdf)

@@ -1,4 +1,4 @@
-# LAB Week 3
+# LAB Week 3 and 4
 
 ## Problem statement 1
 Write the code for selection sort. The code should work for any input data.
