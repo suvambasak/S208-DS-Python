@@ -17,6 +17,15 @@
         - [Reading 1](https://www.cse.iitd.ac.in/~bagchi/courses/COL106_18-19/2018COL106note-adt.pdf)
 
     - [Linked list](/linked_list/single_linked_list.py)
+    - Tree
+        - [Video 1](https://www.youtube.com/watch?v=f2q8NDblYIE&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=22)
+        - [Video 2](https://www.youtube.com/watch?v=nwtg2f0kCKQ&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=23)
+        - [Video 3](https://www.youtube.com/watch?v=yvX95FAipL4&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=24)
+        - [Video 4](https://www.youtube.com/watch?v=4eSiHIy1c9o&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=25)
+        - [Video 5](https://www.youtube.com/watch?v=vf3ZKh9MdYI&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=26)
+        - [Video 6](https://www.youtube.com/watch?v=172p5em7ug8&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=27)
+        - [Video 7](https://www.youtube.com/watch?v=2oLBIKyx_ts&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=28)
+        - [Video 8](https://www.youtube.com/watch?v=RAdVizLD52E&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=29)
 - Backtracking
 - Dynamic programming
 - Memory management in C
