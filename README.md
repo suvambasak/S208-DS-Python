@@ -26,6 +26,14 @@
         - [Video 6](https://www.youtube.com/watch?v=172p5em7ug8&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=27)
         - [Video 7](https://www.youtube.com/watch?v=2oLBIKyx_ts&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=28)
         - [Video 8](https://www.youtube.com/watch?v=RAdVizLD52E&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=29)
+    - Binary search trees
+        - [Video 1](https://www.youtube.com/watch?v=vEypowUIBRs&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=30)
+        - [Video 2](https://www.youtube.com/watch?v=myGPDTW1lS8&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=31)
+        - [Video 3](https://www.youtube.com/watch?v=i-fakkIVkH8&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=32)
+        - [Video 4](https://www.youtube.com/watch?v=VpyAFOUFAXA&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=33)
+        - [Video 5](https://www.youtube.com/watch?v=BiONtA9tge0&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=34)
+        - [Video 6](https://www.youtube.com/watch?v=urjdpW0RfKg&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=35)
+        - [Video 7](https://www.youtube.com/watch?v=eteSlnmGaDk&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=36)
 - Backtracking
 - Dynamic programming
 - Memory management in C
