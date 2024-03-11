@@ -34,6 +34,7 @@
         - [Video 5](https://www.youtube.com/watch?v=BiONtA9tge0&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=34)
         - [Video 6](https://www.youtube.com/watch?v=urjdpW0RfKg&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=35)
         - [Video 7](https://www.youtube.com/watch?v=eteSlnmGaDk&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=36)
+        - [Video 8](https://www.youtube.com/watch?v=FiFeR1JzFD0&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=37)
 - Backtracking
 - Dynamic programming
 - Memory management in C
