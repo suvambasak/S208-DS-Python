@@ -55,9 +55,11 @@
 - [Coding Challenge 2](/labs/CH2/)
 - [Coding Challenge 3](/labs/CH3/)
 - [Coding Challenge 4](/labs/CH4/)
+- [Coding Challenge 5](/labs/CH5/)
 
 ## Question paper
 - [MID-1](/QP_ANS/MID-1%20QP%20S208%20ANS.pdf)
+- [MID-2](/QP_ANS/MID-2%20QP%20S208%20ANS.pdf)
 
 ## Other
 - [Course Outline](/CSE-S208-CourseOutline.pdf)
