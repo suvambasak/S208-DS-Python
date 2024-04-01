@@ -35,6 +35,10 @@
         - [Video 6](https://www.youtube.com/watch?v=urjdpW0RfKg&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=35)
         - [Video 7](https://www.youtube.com/watch?v=eteSlnmGaDk&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=36)
         - [Video 8](https://www.youtube.com/watch?v=FiFeR1JzFD0&list=PLgOvAyZGFRoSKBxqG9lbhtz9cVeLDsZnp&index=37)
+    - AVL Tree
+        - [Video 1](https://youtu.be/jDM6_TnYIqE?si=WwIZ7EdD5HCQO69O)
+    - Heap (Priority queue, Heap sort)
+        - [Video 1](https://youtu.be/HqPJF2L5h9U?si=NFc_5_318YbE_aJ_)
 - Backtracking
 - Dynamic programming
 - Memory management in C
@@ -47,6 +51,7 @@
 ## Reference Books
 - Narasimha Karumanchi NK. Data Structures And Algorithms Made Easy
 - Necaise RD. Data structures and algorithms using Python. Wiley Publishing
+- Cormen, Thomas H., et al. Introduction to algorithms. MIT press, 2022.
 
 
 ## Labs
