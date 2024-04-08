@@ -40,8 +40,13 @@
     - Heap (Priority queue, Heap sort)
         - [Video 1](https://youtu.be/HqPJF2L5h9U?si=NFc_5_318YbE_aJ_)
 - Backtracking
+    - [Video 1 - Concept](https://youtu.be/DKCbsiDBN6c?si=UxiJwF5Yz2tTkd8X)
+    - [Video 2 - N Queen Problem](https://youtu.be/xFv_Hl4B83A?si=ds4aaDkRmrPEcZT2)
 - Dynamic programming
+    - [Video 1 - Concept](https://youtu.be/5dRGRueKU3M?si=bBjbXpcyAhpoPZ9j)
+    - [Video 2 - Problem](https://youtu.be/prx1psByp7U?si=j9gwZslbLcjLof0C)
 - Memory management in C
+    - [Pointers in C](https://youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_&si=upc6jr3lLyxMFX1O)
 - Functional programming
 
 ### Materials
