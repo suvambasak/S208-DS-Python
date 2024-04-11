@@ -47,7 +47,9 @@
     - [Video 2 - Problem](https://youtu.be/prx1psByp7U?si=j9gwZslbLcjLof0C)
 - Memory management in C
     - [Pointers in C](https://youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_&si=upc6jr3lLyxMFX1O)
+    - [Examples](/manual_mem_management/)
 - Functional programming
+    - [Idea](/functional_programming/)
 
 ### Materials
 - [Slides](/PPT/)
