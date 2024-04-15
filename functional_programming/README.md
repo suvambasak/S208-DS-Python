@@ -1,4 +1,4 @@
-# Functional Programming README
+# Functional Programming
 
 ## What is Functional Programming?
 

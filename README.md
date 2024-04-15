@@ -42,6 +42,7 @@
 - Backtracking
     - [Video 1 - Concept](https://youtu.be/DKCbsiDBN6c?si=UxiJwF5Yz2tTkd8X)
     - [Video 2 - N Queen Problem](https://youtu.be/xFv_Hl4B83A?si=ds4aaDkRmrPEcZT2)
+    - [N-Queen solution](/backtracking/n_queen.py)
 - Dynamic programming
     - [Video 1 - Concept](https://youtu.be/5dRGRueKU3M?si=bBjbXpcyAhpoPZ9j)
     - [Video 2 - Problem](https://youtu.be/prx1psByp7U?si=j9gwZslbLcjLof0C)
@@ -50,6 +51,9 @@
     - [Examples](/manual_mem_management/)
 - Functional programming
     - [Idea](/functional_programming/)
+- Graph
+    - [BFS](/graph/bfs.py)
+    - [DFS](/graph/dfs.py)
 
 ### Materials
 - [Slides](/PPT/)
