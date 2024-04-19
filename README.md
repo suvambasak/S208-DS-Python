@@ -46,14 +46,17 @@
 - Dynamic programming
     - [Video 1 - Concept](https://youtu.be/5dRGRueKU3M?si=bBjbXpcyAhpoPZ9j)
     - [Video 2 - Problem](https://youtu.be/prx1psByp7U?si=j9gwZslbLcjLof0C)
-- Memory management in C
-    - [Pointers in C](https://youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_&si=upc6jr3lLyxMFX1O)
-    - [Examples](/manual_mem_management/)
 - Functional programming
     - [Idea](/functional_programming/)
 - Graph
     - [BFS](/graph/bfs.py)
     - [DFS](/graph/dfs.py)
+- Memory management in C
+    - [Pointers in C](https://youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_&si=upc6jr3lLyxMFX1O)
+    - [Examples](/manual_mem_management/)
+    - A few events
+        - [Event 1](https://answers.microsoft.com/en-us/windows/forum/all/possible-memory-leaks-in-windows-10/d3941e9d-8114-4c33-8025-eefc01da7c0f)
+        - [Event 2](https://www.linkedin.com/pulse/widespread-failures-caused-many-highlight-potential-risks-mishra/)
 
 ### Materials
 - [Slides](/PPT/)
